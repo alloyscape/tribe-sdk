@@ -1,0 +1,5 @@
+[project]
+name = "alloyscape-tribe-sdk"
+version = "0.0.1"
+description = "Public client SDK — seat chat, Studio room protocol, free TTS helpers"
+requires-python = ">=3.10"
