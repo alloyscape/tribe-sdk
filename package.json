@@ -1,5 +1,9 @@
 {
   "name": "@alloyscape/tribe-sdk",
   "version": "0.0.1",
-  "private": false
+  "description": "Scaffold for the planned AlloyScape tribe SDK",
+  "private": true,
+  "scripts": {
+    "check": "python tools/verify_scaffold.py"
+  }
 }
